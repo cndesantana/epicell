@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"where",
+				"whereIsTheEdge"
+			],
+			[
+				"new",
+				"newcell1"
+			],
+			[
+				"old",
+				"oldcell"
+			],
+			[
+				"posNew",
+				"posNew2"
+			],
+			[
+				"list",
+				"listOfEdges2"
+			],
+			[
+				"listof",
+				"listOfEdges1"
+			],
+			[
+				"number",
+				"numberOfNeighborsOldCell"
+			],
+			[
+				"rep",
+				"replaceEdgesOfCell"
+			],
+			[
+				"neigh",
+				"neighCell"
+			],
+			[
+				"nCells",
+				"nCellsOnMitosis"
+			],
+			[
+				"original",
+				"originalvert"
+			],
+			[
+				"get",
+				"getCellCluster"
+			],
+			[
+				"create",
+				"createCell"
+			],
+			[
+				"former",
+				"lastFormerVert"
+			],
+			[
+				"getV",
+				"getVertexOne"
+			],
+			[
+				"edg",
+				"edgeslist"
+			],
+			[
+				"form",
+				"formerEdges"
+			],
+			[
+				"edges",
+				"edges"
+			],
+			[
+				"getEd",
+				"getEdges"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"x1",
+				"x1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "transitionHelpers.h",
+			"settings":
+			{
+				"buffer_size": 7195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Transitions.h",
+			"settings":
+			{
+				"buffer_size": 2474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/division/cellDivisionHelpers.h",
+			"settings":
+			{
+				"buffer_size": 18730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/division/cellDivision.h",
+			"settings":
+			{
+				"buffer_size": 3799,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/apps/division/transitionStudy.cpp",
+			"settings":
+			{
+				"buffer_size": 12197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellHelpers.h",
+			"settings":
+			{
+				"buffer_size": 5258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellClusterHelpers.h",
+			"settings":
+			{
+				"buffer_size": 38523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellCluster.hh",
+			"settings":
+			{
+				"buffer_size": 14034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellCluster.h",
+			"settings":
+			{
+				"buffer_size": 7780,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 265.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cdesantana/Data/EpiphysX/epicell/src/transition/headers.h",
+		"/home/cdesantana/Data/EpiphysX/epicell/apps/division/transitionStudy.cpp",
+		"/home/cdesantana/Data/EpiphysX/epicell/src/transition/Transitions.h",
+		"/home/cdesantana/Data/EpiphysX/epicell/src/core/epithelium.hh",
+		"/home/cdesantana/Data/EpiphysX/epicell/apps/division/variabilityStudy.cpp",
+		"/home/cdesantana/Data/EpiPhysX/epicell/apps/division/eldestEqualDiv.cpp",
+		"/home/cdesantana/Data/June24/epicell/src/division/cellSelection.h",
+		"/home/cdesantana/Data/June24/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/June24/epicell/src/division/edgeSelection.h",
+		"/home/cdesantana/Data/June24/epicell/src/division/cellSelectionHelpers.h",
+		"/home/cdesantana/Data/June24/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/June24/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/June24/epicell/apps/division/test5.cpp",
+		"/home/cdesantana/Data/June24/epicell/src/division/cellGrowth.h",
+		"/home/cdesantana/Data/June24/epicell/src/mathematics/rng.h",
+		"/home/cdesantana/Data/June24/epicell/src/mathematics/multinomial.h",
+		"/home/cdesantana/Data/June24/epicell/src/core/cellCluster.hh",
+		"/home/cdesantana/Data/June24/epicell/src/core/epitheliumHelpers.h",
+		"/home/cdesantana/Data/June24/epicell/src/core/epithelium.hh",
+		"/home/cdesantana/Data/June24/epicell/src/core/epithelium.h",
+		"/home/cdesantana/Data/June24/epicell/src/core/cellCluster.h",
+		"/home/cdesantana/Data/June24/epicell/src/core/cellClusterHelpers.h",
+		"/home/cdesantana/Data/June24/epicell/apps/division/test4.cpp",
+		"/home/cdesantana/Data/June24/epicell/src/epicell.hh",
+		"/home/cdesantana/Data/June24/epicell/src/epicell.h",
+		"/home/cdesantana/Data/June24/epicell/src/mathematics/headers.h",
+		"/home/cdesantana/Data/June24/epicell/src/division/printHelpers.h",
+		"/home/cdesantana/Data/June15/epicell/src/core/cell.hh",
+		"/home/cdesantana/Data/June15/epicell/src/core/cellCluster.h",
+		"/home/cdesantana/Data/June15/epicell/src/core/cellCluster.hh",
+		"/home/cdesantana/Data/June15/epicell/src/core/cellClusterHelpers.h",
+		"/home/cdesantana/Data/June15/epicell/src/division/edgeSelection.h",
+		"/home/cdesantana/Data/June15/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/June15/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/June15/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/June15/epicell/src/division/cellSelection.h",
+		"/home/cdesantana/Data/June15/epicell/src/division/cellSelectionHelpers.h",
+		"/home/cdesantana/Data/June15/epicell/apps/division/test4.cpp",
+		"/home/cdesantana/Data/June15/epicell/src/division/cellGrowth.h",
+		"/home/cdesantana/Data/June15/epicell/src/core/epithelium.h",
+		"/home/cdesantana/Data/June15/epicell/src/core/epithelium.hh",
+		"/home/cdesantana/Data/June15/epicell/src/core/epitheliumHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/io/cellClusterIo.h",
+		"/home/cdesantana/Data/newepicell/epicell/apps/division/test4.cpp",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/vertexHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cellCluster.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cellCluster.hh",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/division/printHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cell.hh",
+		"/home/cdesantana/Data/newepicell/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cellClusterHelpers.h",
+		"/home/cdesantana/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/cdesantana/Data/EpiPhysX/epicell/apps/test/sublTest.sublime-project",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/cell.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/epithelium.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/edge.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/vertex.h",
+		"/home/cdesantana/Data/abc3d/EcoEvo3D/dendritic.jl",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/edge.hh",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/edgeHelpers.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/core/dynamics.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/division/cellSelection.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/division/edgeSelection.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/mathematics/multinomial.h",
+		"/home/cdesantana/Data/newepicell/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/epicell/src/division/cellSelection.h",
+		"/home/cdesantana/Data/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/epicell/src/division/cellSelectionHelpers.h",
+		"/home/cdesantana/Data/epicell/apps/division/test1.cpp",
+		"/home/cdesantana/Data/epicell/src/core/cellCluster.h",
+		"/home/cdesantana/Data/epicell/src/core/cellCluster.hh",
+		"/home/cdesantana/Data/epicell/apps/division/test2.cpp",
+		"/home/cdesantana/Data/epicell/src/core/cell.h",
+		"/home/cdesantana/Data/epicell/src/core/cell.hh",
+		"/home/cdesantana/Data/epicell/src/io/cellClusterIo.h",
+		"/home/cdesantana/Data/epicell/src/core/cellClusterHelpers.h",
+		"/home/cdesantana/Data/epicell/apps/division/plotNetwork.R",
+		"/home/cdesantana/Data/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/division/cellGrowth.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/epithelium.hh",
+		"/home/cdesantana/Data/EpiPhysX/epicell/apps/division/test2.cpp",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/epitheliumHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/io/cellClusterIo.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/division/edgeSelection.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cell.hh",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cell.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/division/cellDivision.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/epithelium.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/division/cellGrowth.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/apps/division/test.cpp",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cellCluster.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/vertexHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cellCluster.hh",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/cellClusterHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/epithelium.hh",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/apps/test/test.cpp",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/apps/division/log.R",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/apps/division/plotNetwork.R",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/edge.hh",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/edge.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/division/cellSelection.h",
+		"/home/cdesantana/Data/EpiPhysX/merge_repo/epicell/src/core/vertex.h",
+		"/home/cdesantana/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/src/division/cellDivision.h",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/apps/test/test.cpp",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/src/division/cellDivisionHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/src/core/tissue.h",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/src/core/vertex.h",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/src/core/edge.h",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/apps/test/Makefile",
+		"/home/cdesantana/Data/EpiPhysX/backup_code/apps/test/sublTest.sublime-workspace",
+		"/home/cdesantana/Data/EpiPhysX/epicell/apps/test/test.cpp",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/cell.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/io/tissueIo.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/tissue.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/apps/test/Makefile",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/cellHelpers.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/edge.h",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/core/edgeHelpers.h",
+		"/home/cdesantana/Isis/sleep/Data/getPatientId.jl",
+		"/home/cdesantana/Isis/sleep/Data/mse.c",
+		"/home/cdesantana/Data/EpiPhysX/epicell/src/mathematics/array.h"
+	],
+	"find":
+	{
+		"height": 110.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Connectivity",
+			"printEdgesAtCell",
+			"printCellSharingVertices",
+			"SharingVertices",
+			"connectivityTable",
+			"printEdgesOnCellSharingVertices",
+			"changeEdgeOfMergedVertices",
+			"removeOldVertices",
+			"mergeV",
+			"changeConnectivityAfterTransition",
+			"changeConnectivityTable",
+			"changeConnectivityAfterTransition",
+			"changeCells",
+			"removeOldVertices",
+			"ertices",
+			"removeE",
+			"remove",
+			"removeOldVertices",
+			"SPLIT",
+			"cout",
+			"cell",
+			"Chosen",
+			"getCentralVertexInEdge",
+			"getAngleBetweenVertices",
+			"cellsShareEdge",
+			"getEdgeSharingVertice",
+			"getEdgesByVertices",
+			"cellsShareEdge",
+			"ThereIsConnectivity",
+			"whereIsTheEdge",
+			"matchEdgeVertexInListOfEdges",
+			"checkCoherenceOfEdges",
+			"replaceConnectivity",
+			"getListOfVertices",
+			"replaceConnectivity",
+			"getEdgePosition",
+			"getNeighCellFromEdge",
+			"getListOfVerticesNeighCell",
+			"replaceEdgesOfCell",
+			"replaceEdgesOfCell2",
+			"checkConnectivityCoherence",
+			"printConnec",
+			"changeConnectivity",
+			"getCommonEdge",
+			"changeConnectivityTable",
+			"posE1",
+			"split",
+			"posFirstEdge",
+			"rng",
+			"changeConnectivityTable",
+			"getEdgeSharingVertice",
+			"changeConnectivityTable",
+			"replaceConnectivity",
+			"whereIsTheEdge",
+			"replaceConnectivity",
+			"getConnectivity()",
+			"replaceConnectivity",
+			"replace",
+			"updateListOfEdges",
+			"replaceConnectivity",
+			"changeConnectivityTable",
+			"replaceConnectivity",
+			"changeConnectivityTable",
+			"replaceConnectivity",
+			"changeConnectivityTable",
+			"replace",
+			"updateListOfEdges",
+			"posv1",
+			"splitCell",
+			"getListOfVertices",
+			"Testing:",
+			"1st",
+			"splitCell",
+			"updateListOfEdges",
+			"posE2",
+			"posv1",
+			"posE1",
+			"getListOfVertices",
+			"2nd",
+			"LIST OF VERTICES:",
+			"getOpposite",
+			"replaceConnectivity",
+			"get",
+			"splitCell",
+			"getCentralVertexInEdge",
+			"Opposite",
+			"sortVerticesCounterClockwise",
+			"sorted",
+			"Vertices",
+			"getListOfVertices",
+			"cellHelpers<2>::",
+			"getListOfVertices",
+			"push_back(u",
+			"replaceConnectivity",
+			"getVertices",
+			"replaceConnectivity",
+			"R",
+			"replaceConnectivity",
+			"LIST OF VERTICES",
+			"replaceConne",
+			"replaceConnectivity",
+			"updateListOfEdges",
+			"replaceEdges",
+			"getListOfVertices",
+			"getEdgesByVertices",
+			"sizeTable",
+			"getOppositeEdgePosition",
+			"sizeTable",
+			"getOppositeEdgePosition",
+			"getAngleBetweenVertices",
+			"getCentralVertexInEdge",
+			"getAngleBetween",
+			"getCentralVertexInEdge",
+			"getCentral",
+			"mycell",
+			"getCentralVertex",
+			"getOppositeEdgePosition",
+			"getOpposite",
+			"getCentral",
+			"Opposite",
+			"Central",
+			"getCentralVertexInEdge",
+			"perform",
+			"Hexagonal",
+			"edgeId",
+			"getOppositeEdgePosition",
+			"getListOfVer",
+			"neighCell"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"changeConnectivityAfterTransition",
+			"edgePosition",
+			"eighbour",
+			"rng",
+			"updateListOfEdges",
+			"mytissue.getConnectivity()",
+			"}",
+			"{",
+			"nCell",
+			"c",
+			"changeConnectivityNewCells",
+			"myconn",
+			"2",
+			"listOfEdges",
+			"cumBirth",
+			"splitCell",
+			"nEdgesSubset",
+			"posOppositeEdgePosition",
+			"posOppositeEdge",
+			"posEdgeSelected",
+			"cellHelpers<2>::createCell",
+			"getListOfVerticesNeighCell",
+			"getSubsetOfEdgesMyCell",
+			"mycell",
+			"const Tissue<d> &tissue,std::shared_ptr<Cell<d>>",
+			"firstEdge"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "transitionHelpers.h",
+					"settings":
+					{
+						"buffer_size": 7195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5206,
+								5206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4529.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Transitions.h",
+					"settings":
+					{
+						"buffer_size": 2474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2091,
+								2091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1998.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/division/cellDivisionHelpers.h",
+					"settings":
+					{
+						"buffer_size": 18730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14108,
+								14108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 234.0,
+						"translation.y": 10496.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/division/cellDivision.h",
+					"settings":
+					{
+						"buffer_size": 3799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2220.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/apps/division/transitionStudy.cpp",
+					"settings":
+					{
+						"buffer_size": 12197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9605,
+								9605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellHelpers.h",
+					"settings":
+					{
+						"buffer_size": 5258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5121,
+								5121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3996.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellClusterHelpers.h",
+					"settings":
+					{
+						"buffer_size": 38523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12979,
+								12979
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellCluster.hh",
+					"settings":
+					{
+						"buffer_size": 14034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13868,
+								13868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12348.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/cdesantana/Data/EpiphysX/epicell/src/core/cellCluster.h",
+					"settings":
+					{
+						"buffer_size": 7780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2624,
+								2624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 36.0,
+						"translation.y": 2467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 654.0
+	},
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

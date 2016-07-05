@@ -1,0 +1,7 @@
+*pyc*
+*.vtk
+*.png
+*.scons*
+*.o
+lib/*
+*.txt*
